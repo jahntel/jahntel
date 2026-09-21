@@ -43,6 +43,19 @@
 
 ---
 
+### 🧑‍💻 TryHackMe Journey
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019df7a9-cccd-7370-af5e-61a7d96dd01b" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jahntel.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+- Active learner on **TryHackMe**, building practical cybersecurity skills.  
+- Focused on penetration testing, SOC operations, and real-world labs.  
+- Continuously improving ranking and completing advanced rooms.  
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahntel&theme=dark" alt="jahntel" />
