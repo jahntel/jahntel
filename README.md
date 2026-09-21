@@ -60,8 +60,8 @@
 ### 📫 Connect With Me
 - 📧 Email: **johnnzau845@gmail.com**  
 - 📷 Instagram: [@jahntel](https://instagram.com/jahntel)  
-- 🔗 LinkedIn: *Add your LinkedIn link here*  
+- 🔗 LinkedIn: *www.linkedin.com/in/john-nzau-942899410*  
 
 ---
 
-⚔️ **Securing the Digital World — One System at a Time** ⚔️
+⚔️ **THE INVISIBLE NIGHT GUARD** ⚔️
